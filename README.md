@@ -1,10 +1,5 @@
 ## Hello! I'm Joyce 👋
 
-- 🔭 I’m working on Front-End
-- 🌱 Lerning JavaScript
-- 😄 Pronouns: She/her
-
-
 <div align="center">
   <a href="https://github.com/JoyceFatima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joycefatima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
