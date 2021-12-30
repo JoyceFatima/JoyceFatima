@@ -1,4 +1,4 @@
-#### Hello! I'm Joyce 👋
+## Hello! I'm Joyce 👋
 
 - 🔭 I’m working on Front-End
 - 🌱 Lerning JavaScript
