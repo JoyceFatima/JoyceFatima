@@ -1,11 +1,11 @@
 ## Hello! I'm Joyce
 
 <div align="center">
-  <a href="https://github.com/JoyceFatima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joycefatima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycefatima&layout=compact&langs_count=7&theme=dracula"/>
-</div>  
-<div style="display: inline_block"><br>
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
   
   <!-- 
   <img align="center" alt="Joyce-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="Joyce-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joyce-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
-  
+<div>
   <img align="center" alt="Joyce-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joyce-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Joyce-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/503669310900666411/926287078541656124/5zk7i5.gif">
