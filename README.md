@@ -17,7 +17,7 @@
   
   <img align="center" alt="Joyce-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joyce-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Joyce-Pic" height="150" style="border-radius:50px;"          src="https://imgflip.com/gif/5zk68b">
+  <img align="right" alt="Joyce-Pic" height="150" style="border-radius:50px;"          src="https://picrew.me/share?cd=0te7xXZv4o #Picrew #AmphyPop_Doll_Maker">
 </div>
   
  ##
