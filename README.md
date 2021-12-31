@@ -1,4 +1,4 @@
-## Hello! I'm Joyce 👋
+## Hello! I'm Joyce
 
 <div align="center">
   <a href="https://github.com/JoyceFatima">
