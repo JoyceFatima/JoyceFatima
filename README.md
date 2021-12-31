@@ -1,4 +1,4 @@
-## Hello! I'm Joyce programmer by passion!
+## Hello! I'm Joyce Passionate about impact and challenges!
 
 <div align="center">
   <a href="https://github.com/JoyceFatima">
