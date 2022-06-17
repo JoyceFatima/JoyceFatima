@@ -21,7 +21,6 @@
   <img align="center" alt="Joyce-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joyce-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Joyce-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Joyce-Csharp" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://en.wikipedia.org/wiki/File:Nextjs-logo.svg)">
   <img align="right" alt="Joyce-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/503669310900666411/926287078541656124/5zk7i5.gif">
 </div>
   
