@@ -14,9 +14,9 @@
 
 - 👩🏻‍🚀 I'm Frontend Developer;
 
-- 📌 I’m currently working on with React | Typescript | Angular.
+- 📌 I’m currently working on with React | Typescript | Node.
 
-- 🌱 I’m currently learning Algorithm in Typescript Language, ReactJS | Angular | NodeJs | NestJs; 
+- 🌱 I’m currently learning Algorithm in Typescript Language, ReactJS | NodeJs | NestJs; 
 
 - 💬 Ask me about anything, I am happy to help;
 
