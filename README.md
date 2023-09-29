@@ -12,7 +12,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍🚀 I'm Frontend Developer;
+- 👩🏻‍🚀 I'm Full-Stack Developer;
 
 - 📌 I’m currently working on with React | Typescript | Node.
 
