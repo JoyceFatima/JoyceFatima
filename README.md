@@ -14,7 +14,7 @@
 
 - 👩🏻‍🚀 I'm Full-Stack Developer;
 
-- 📌 I’m currently working on with React | Typescript | Node.
+- 📌 I’m currently working on with React | Next | Typescript | Node | Nest.
 
 - 🌱 I’m currently learning Algorithm in Typescript Language, ReactJS | NodeJs | NestJs; 
 
